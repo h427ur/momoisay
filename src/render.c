@@ -5,7 +5,7 @@
 #include <signal.h>
 #include <locale.h>
 #include <unistd.h>
-#include <ncurses.h>
+#include <curses.h>
 
 static int use_color = 0;
 
